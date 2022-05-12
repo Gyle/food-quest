@@ -7,12 +7,14 @@
 
 
   <p align="center">
-    A PWA project for recording your best food spots
+    A PWA project for recording your best food spots 
   </p>
 </div>
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 
 
 The idea is to have an easily accessable app for recording food places you have been to for keeping a personal diary of what you determine to be the go to food spots.
 

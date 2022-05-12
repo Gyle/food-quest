@@ -1,11 +1,10 @@
 <div id="top"></div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <br />
 <div align="center">
 
   <h3 align="center">Food Quest</h3>
+
 
   <p align="center">
     A PWA project for recording your best food spots

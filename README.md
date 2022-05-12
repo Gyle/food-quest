@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/kyle-claudio-3054a9180/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
